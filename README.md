@@ -1,4 +1,4 @@
-### <h3> Olá, meu nome é Mateus, nasci em 2007, e atualmente estudo no Instituto Federal de Educação e Tecnologia e Educação - Campus Rio Pomba, no curso  Técnico de Informática </h3>
+ <h3> Olá, meu nome é Mateus, nasci em 2007, e atualmente estudo no Instituto Federal de Educação, Tecnologia e Educação - Campus Rio Pomba, no curso  Técnico de Informática </h3>
 
 <!--
 **mgnetto1009/mgnetto1009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
